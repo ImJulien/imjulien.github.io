@@ -5,7 +5,7 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // ADD THIS LINE (Replace YOUR_REPOSITORY_NAME with your actual GitHub repository name)
-  base: '/ImJulien.github.io/',
+  base: '/',
   server: {
     host: "::",
     port: 8080,
